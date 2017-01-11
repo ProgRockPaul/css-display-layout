@@ -1,0 +1,66 @@
+html {
+box-sizing: border-box;
+width: 600px
+}
+
+p {
+display: inline;
+padding: 5px;
+margin: 2px;
+color: white;
+background-color: #afb8ad;
+}
+
+
+.photos {
+  background-color: turquoise;
+  text-align: left;
+  : yellow;
+  margin: 10px;
+  padding: 10px;
+}
+span {
+  border-bottom: 1px solid yellow;
+}
+.smurf {
+  border: 5px;
+}
+
+a {
+  display: inline;;
+}
+h1 {
+  display: inherit;
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin: 6px
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  height: 200px;
+}
+article {
+  display: inline-flex;
+}
+figure {
+  align-content: flex-end;
+}
+
+h4 {
+  background-color: yellow;
+  margin: 1px;
+}
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 10px;
+  padding: 5px;
+  margin: 5px;
+}
